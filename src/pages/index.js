@@ -22,7 +22,7 @@ const IndexPage = () => (
       </h2>
     </div>
     <div id="cv" style={{width: '100%', display: `flex`, flexDirection: `column`, alignItems: `center`, paddingTop: `50px`}}>
-      <a href="https://www.linkedin.com/in/ben-michel-044a3985/" style={{fontWeight: `600`, letterSpacing: `20px`}}>⎜ CV ⎜</a>
+      <a href="https://www.linkedin.com/in/ben-michel-044a3985/" style={{fontSize: `14px`, fontWeight: `600`, marginLeft: `20px`, letterSpacing: `20px`}}>⎜ CV ⎜</a>
       <div style={{marginTop: `25px`, fontSize:`13px`}}></div>
     </div>
   </Layout>
