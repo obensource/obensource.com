@@ -5,7 +5,25 @@ import React from 'react'
 class Header extends React.Component {
   constructor(props) {
     super(props)
-    this.getWindowWidth()
+    this.state = { pixelValue: '75px' }
+    this.getWindowWidth = this.getWindowWidth.bind(this)
+    this.updateWindowDimensions = this.updateWindowDimensions.bind(this)
+  }
+  componentDidMount() {
+    let windowWidth = this.getWindowWidth()
+    this.setState({pixelValue: windowWidth})
+
+    if (typeof(window) !== 'undefined') {
+      window.addEventListener('resize', this.updateWindowDimensions)
+    }
+  }
+  componentWillUnmount() {
+    if (typeof(window) !== 'undefined') {
+      window.removeEventListener('resize', this.updateWindowDimensions);
+    }
+  }
+  updateWindowDimensions() {
+    this.setState({ pixelValue: this.getWindowWidth});
   }
   getWindowWidth () {
     let windowWidth = null
@@ -32,7 +50,7 @@ class Header extends React.Component {
       pixelValue = '10px'
     }
 
-    this.state = {pixelValue: pixelValue};
+    return pixelValue
   }
   render () {
     return <div
