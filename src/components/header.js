@@ -36,18 +36,18 @@ class Header extends React.Component {
 
     if (windowWidth > 1200) {
       pixelValue = '75px'
-    } else if (windowWidth < 400) {
-      pixelValue = '5px'
-    } else if (windowWidth < 600) {
-      pixelValue = '10px'
-    } else if (windowWidth < 800) {
-      pixelValue = '32px'
-    } else if (windowWidth < 1000) {
+    } else if (windowWidth > 0 && windowWidth < 400) {
+      pixelValue = '0px'
+    } else if (windowWidth > 400 && windowWidth < 600) {
+      pixelValue = '2px'
+    } else if (windowWidth > 600 && windowWidth < 800) {
+      pixelValue = '6px'
+    } else if (windowWidth > 800 && windowWidth < 1000) {
+      pixelValue = '35px'
+    } else if (windowWidth > 1000 && windowWidth < 1200) {
       pixelValue = '65px'
-    } else if (windowWidth < 1200) {
-      pixelValue = '75px'
     } else {
-      pixelValue = '10px'
+      pixelValue = '75px'
     }
 
     return pixelValue

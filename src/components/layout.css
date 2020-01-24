@@ -678,15 +678,15 @@ pre tt:after {
   content: '';
 }
 @media only screen and (max-width: 742px) {
+  body {
+    font-weight: 500;
+  }
   img {
     width: 100%;
     height: 100%;
   }
   iframe {
     width: 100%;
-  }
-  #title {
-    letter-spacing: 10px;
   }
   #nav {
     width: 100%;
