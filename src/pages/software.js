@@ -44,9 +44,9 @@ const Software = () => (
       <a style={{fontSize: `12px`}} href="https://www.dropbox.com/s/0dea1inokbjhk4p/UI.mov?dl=0">Cardiology Lab App</a>
       <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=3PrbBHiTeDs">WebSound: Remote Performer</a>
       <div style={{marginTop: `20px`}}>Talks</div>
-      <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=43E0CBj9Xks">DevRelCon Tokyo: Seamlessly Integrating your documentation and engineering teams</a>
-      <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=KeRg_RyLiUY">NodePDX: The Web Platform is the Universal Instrument</a>
-      <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=SmoPisZ2ifw&list=PLnGfcfJVckZzYvAiy1QGA3rLomDBFLnIw">Donut.js: Remote Performing – It's a thing! (360º video)</a>
+        <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=43E0CBj9Xks"><b>DevRelCon Tokyo</b>: Seamlessly Integrating your documentation and engineering teams</a>
+          <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=KeRg_RyLiUY"><b>NodePDX</b>: The Web Platform is the Universal Instrument</a>
+            <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=SmoPisZ2ifw&list=PLnGfcfJVckZzYvAiy1QGA3rLomDBFLnIw"><b>Donut.js</b>: Remote Performing – It's a thing! (360º video)</a>
       <div style={{marginTop: `20px`}}>Slides</div>
       <a style={{fontSize: `12px`}} href="https://slides.com/oben/deck-11#/">Seamlessly Integrating your Documentation and Engineering Teams</a>
       <a style={{fontSize: `12px`}} href="https://slides.com/oben/test-for-private-deck#/">Developer Relations at InVision</a>
