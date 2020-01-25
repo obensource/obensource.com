@@ -43,7 +43,7 @@ const Software = () => (
         <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=-8gxl3HyH14"><b>Always Forward with DShaw</b>: Node.js & JS Foundation Merger</a>
       <div style={{marginTop: `20px`}}>Demos</div>
       <a style={{fontSize: `12px`}} href="https://www.dropbox.com/s/0dea1inokbjhk4p/UI.mov?dl=0">Cardiology Lab App</a>
-      <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=3PrbBHiTeDs">WebSound: Remote Performer</a>
+        <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=3PrbBHiTeDs"><b>WebSound</b>: Remote Performer</a>
       <div style={{marginTop: `20px`}}>Talks</div>
         <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=43E0CBj9Xks"><b>DevRelCon Tokyo</b>: Seamlessly Integrating your documentation and engineering teams</a>
           <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=KeRg_RyLiUY"><b>NodePDX</b>: The Web Platform is the Universal Instrument</a>
