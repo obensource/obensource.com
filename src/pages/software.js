@@ -40,7 +40,7 @@ const Software = () => (
       <a style={{fontSize: `12px`}} href="https://donutjs.club/past-speakers/">Past Speakers</a>
       <h3 style={{marginTop: `50px`}}>Media</h3>
       <div>Videocasts</div>
-      <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=-8gxl3HyH14">Always Forward with DShaw: Node.js & JS Foundation Merger</a>
+        <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=-8gxl3HyH14"><b>Always Forward with DShaw</b>: Node.js & JS Foundation Merger</a>
       <div style={{marginTop: `20px`}}>Demos</div>
       <a style={{fontSize: `12px`}} href="https://www.dropbox.com/s/0dea1inokbjhk4p/UI.mov?dl=0">Cardiology Lab App</a>
       <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=3PrbBHiTeDs">WebSound: Remote Performer</a>
