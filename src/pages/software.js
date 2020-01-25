@@ -58,7 +58,7 @@ const Software = () => (
       <div style={{marginTop: `20px`}}>Promos</div>
       <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=kubRLaNeVjQ">Why NodeConf?</a>
       <div style={{marginTop: `20px`}}>Fun</div>
-      <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=9BB5xBxPH0E">NodeConf Adventure: Node Villager Song</a>
+      <a style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=9BB5xBxPH0E"><b>NodeConf Adventure</b>: Node Villager Song</a>
       <Link to="/" style={{marginTop: `50px`, fontSize: `14px`}}>⎜home⎜</Link>
     </div>
     <Links />
