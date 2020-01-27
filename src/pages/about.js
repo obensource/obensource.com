@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { OutboundLink } from 'gatsby-plugin-google-analytics'
 
 import Layout from '../components/layout'
 import Links from '../components/links'
@@ -11,7 +12,7 @@ const About = () => (
     <div style={{display: `flex`, flexDirection: `column`, alignItems: `center`, marginTop: `80px`}}>
       <h2>
         <span role="img">📍</span>
-        <a class="link" href="https://twitter.com/obensource">BEN MICHEL</a>'S PERSONAL RESIDENCE IN <a class="link" href="https://www.youtube.com/watch?v=U_o8gerare0#t=6m06s">CYBERVILLE</a>
+        <OutboundLink class="link" href="https://twitter.com/obensource">BEN MICHEL</OutboundLink>'S PERSONAL RESIDENCE IN <OutboundLink class="link" href="https://www.youtube.com/watch?v=U_o8gerare0#t=6m06s">CYBERVILLE</OutboundLink>
       </h2>
       <div style={{marginTop: `10px`}}>
         <img alt="obensource celebrating working code" src="https://i.imgur.com/ZzZuLWV.jpg" height="500px" />

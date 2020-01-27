@@ -5,6 +5,9 @@ var plugins = [{
       plugin: require('/Users/obensource/code/obensource/obensource.com/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/bit-yes.png"},
     },{
+      plugin: require('/Users/obensource/code/obensource/obensource.com/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-157087286-1","anonymize":true},
+    },{
       plugin: require('/Users/obensource/code/obensource/obensource.com/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
