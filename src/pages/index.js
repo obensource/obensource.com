@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import { OutboundLink } from 'gatsby-plugin-google-analytics'
 
 import Layout from '../components/layout'
+import Links from '../components/links'
 import SEO from '../components/seo'
 
 const IndexPage = () => (
@@ -22,10 +23,12 @@ const IndexPage = () => (
         <Link to="./writing">WR✎TING</Link>
       </h2>
     </div>
-    <div id="cv" style={{width: '100%', display: `flex`, flexDirection: `column`, alignItems: `center`, paddingTop: `50px`}}>
-      <OutboundLink href="https://github.com/obensource/cv/blob/master/cv.pdf" style={{fontSize: `14px`, fontWeight: `600`, marginLeft: `20px`, letterSpacing: `20px`}}>⎜ CV ⎜</OutboundLink>
-      <div style={{marginTop: `25px`, fontSize:`13px`}}></div>
-    </div>
+    <span style={{width: `100%`, display: `flex`, justifyContent: `center`, paddingTop: `50px`, paddingLeft: `15px`}}>
+      <OutboundLink className="my-info" href="https://github.com/obensource/cv/blob/master/cv.pdf" style={{marginTop: `2px`, fontSize: `14px`, fontWeight: `500`, letterSpacing: `15px`}}>CV</OutboundLink>
+      <span id="pipe">|</span>
+      <OutboundLink className="my-info" href="https://calendly.com/obensource" style={{marginTop: `2px`, fontSize: `14px`, fontWeight: `500`, letterSpacing: `15px`}}>Calendar</OutboundLink>
+    </span>
+    <Links />
   </Layout>
 )
 

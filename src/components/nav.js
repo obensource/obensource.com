@@ -19,7 +19,6 @@ class Nav extends React.Component {
   }
   render () {
     return <div className="nav">
-      <span style={{paddingRight: '6px', paddingBottom: '2px', fontWeight: '800'}}>{this.returnPipe()}</span>
       <Link to="/"> home</Link>
       <span style={{padding: '0 6px', paddingBottom: '2px', fontWeight: '900'}}>{this.returnPipe()}</span>
       <Link to="/software"> software</Link>
@@ -29,7 +28,6 @@ class Nav extends React.Component {
       <Link to="/writing"> writing</Link>
       <span style={{padding: '0 6px', paddingBottom: '2px', fontWeight: '900'}}>{this.returnPipe()}</span>
       <OutboundLink href="https://calendly.com/obensource" to="/writing"> calendar</OutboundLink>
-      <span style={{paddingLeft: '6px', paddingBottom: '2px', fontWeight: '900'}}>{this.returnPipe()}</span>
     </div>
   }
 }
