@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import { OutboundLink } from 'gatsby-plugin-google-analytics'
 
 import Layout from '../components/layout'
+import Nav from '../components/nav'
 import Links from '../components/links'
 import SEO from '../components/seo'
 
@@ -60,7 +61,7 @@ const Software = () => (
       <OutboundLink style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=kubRLaNeVjQ">Why NodeConf?</OutboundLink>
       <div style={{marginTop: `20px`}}>Fun</div>
       <OutboundLink style={{fontSize: `12px`}} href="https://www.youtube.com/watch?v=9BB5xBxPH0E"><b>NodeConf Adventure</b>: Node Villager Song</OutboundLink>
-      <Link to="/" style={{marginTop: `50px`, fontSize: `14px`}}>⎜home⎜</Link>
+      <Nav />
     </div>
     <Links />
   </Layout>

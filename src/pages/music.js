@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import { OutboundLink } from 'gatsby-plugin-google-analytics'
 
 import Layout from '../components/layout'
+import Nav from '../components/nav'
 import Links from '../components/links'
 import SEO from '../components/seo'
 
@@ -37,7 +38,7 @@ const Music = () => (
       <h3 style={{marginTop: `60px`}}>Collaborations</h3>
       <div style={{margin: `20px 0`}}>Wesley Randolph Eader</div>
       <iframe src="https://player.vimeo.com/video/63612192" width="640" height="360" frameBorder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen></iframe>
-      <Link to="/" style={{marginTop: `50px`, fontSize: `14px`}}>⎜home⎜</Link>
+      <Nav />
       </div>
       <Links />
   </Layout>

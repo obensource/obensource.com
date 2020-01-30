@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import { OutboundLink } from 'gatsby-plugin-google-analytics'
 
 import Layout from '../components/layout'
+import Nav from '../components/nav'
 import Links from '../components/links'
 import SEO from '../components/seo'
 
@@ -26,9 +27,9 @@ const Writing = () => (
       <h3 style={{marginTop: `50px`}}>Creative</h3>
       <OutboundLink href="https://medium.com/@obensource/stacking-synthesizers-like-tiny-modules-e4b1462a82d3"><b>Music Production</b>: Stacking synthesizers (like tiny modules)</OutboundLink> 
       <OutboundLink style={{marginTop: `10px`}} href="https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world/"><b>Pete Seeger</b>: lessons learned from a hard link to the old world</OutboundLink>
-      <Link to="/" style={{marginTop: `50px`, fontSize: `14px`}}>⎜home⎜</Link>
-      </div>
-      <Links />
+      <Nav />
+    </div>
+    <Links />
   </Layout>
 )
 
