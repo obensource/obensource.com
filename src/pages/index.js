@@ -11,7 +11,7 @@ const IndexPage = () => (
     <div style={{display: `flex`, justifyContent: `center`, marginTop: `80px`}}>
       <img alt="obensource holding a sign that says the browser is the universal instrument" src="https://i.imgur.com/bryutAj.jpg" height="500px" />
     </div>
-    <div id="nav" style={{display: `flex`, justifyContent: `space-around`, paddingTop: `40px`}}>
+    <div id="nav-index" style={{display: `flex`, justifyContent: `space-around`, paddingTop: `40px`}}>
       <h2>
         <Link to="./software"> SOFT⇧WARE</Link>
       </h2>
