@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/obensource
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://obensource.com
+  * I am obensource (https://keybase.io/obensource) on keybase.
+  * I have a public key ASC84BUHUu2JLY_ZFDQa-C8bMLeLjPfKPBtKFNu3qtJ1zAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012029129a06457c10c62bc0e93e7504628d5e3c92e1d70821314eab8a159f1946510a",
+      "host": "keybase.io",
+      "kid": "0120bce0150752ed892d8fd914341af82f1b30b78b8cf7ca3c1b4a14dbb7aad275cc0a",
+      "uid": "a3a12dc14084d5429de71ed3829e0119",
+      "username": "obensource"
+    },
+    "merkle_root": {
+      "ctime": 1580338930,
+      "hash": "e7718dee3f88db2201dabd9bc014880b6d090cf7b8dadd00cb29d4a5f5f03e4b8de18bf46eeef629e6297ce3ff4b1f1ac3391d9f9d98f2b5d1c78e3d9183bc28",
+      "hash_meta": "7b1e186ebf5829dd440be181df0df05d3917e9b055c88d984df3b007e1e8fd92",
+      "seqno": 14412887
+    },
+    "service": {
+      "entropy": "Ly7q8OOI8nPMFUTpI38hcKp1",
+      "hostname": "obensource.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1580338942,
+  "expire_in": 504576000,
+  "prev": "9468174e06051bf261128d7076f51ea0c6ade922d3c75ebab1be42eacffcb394",
+  "seqno": 141,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvOAVB1LtiS2P2RQ0GvgvGzC3i4z3yjwbShTbt6rSdcwKp3BheWxvYWTES5cCzI3EIJRoF04GBRvyYRKNcHb1HqDGreki08deurG+QurP/LOUxCDUps99Ihg8z4mcXodPeRtEmoh3gKnQTvbcH2pTIvfSKAIBwqNzaWfEQPydDwJiNspbCoKyRSj3zEGWqsIXIPLZHcBfB8ux1fPZBFWsfwq2pv+9vE7ztF6wq1eut87ePTAF/ZZdffYcVQSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDfOz2BiP+AMRdAIxuGPbD0wPmKUgOdCwbe2zP4x08/N6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/obensource
+
+==================================================================
