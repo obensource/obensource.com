@@ -24,9 +24,9 @@ const IndexPage = () => (
       </h2>
     </div>
     <span style={{width: `100%`, display: `flex`, justifyContent: `center`, paddingTop: `50px`, paddingLeft: `15px`}}>
-      <OutboundLink className="my-info" href="https://github.com/obensource/cv/blob/master/cv.pdf" style={{marginTop: `2px`, fontSize: `14px`, fontWeight: `500`, letterSpacing: `15px`}}>CV</OutboundLink>
+      <OutboundLink className="my-info" href="https://github.com/obensource/cv/blob/master/cv.pdf">CV</OutboundLink>
       <span id="pipe">|</span>
-      <OutboundLink className="my-info" href="https://calendly.com/obensource" style={{marginTop: `2px`, fontSize: `14px`, fontWeight: `500`, letterSpacing: `15px`}}>Calendar</OutboundLink>
+      <OutboundLink className="my-info" href="https://calendly.com/obensource">Calendar</OutboundLink>
     </span>
     <Links />
   </Layout>

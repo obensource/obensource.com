@@ -677,10 +677,6 @@ pre tt:before,
 pre tt:after {
   content: '';
 }
-#pipe {
-  letter-spacing: 15px;
-  margin: 0 10px;
-}
 .nav {
   display: flex;
   align-items: center;
@@ -688,6 +684,17 @@ pre tt:after {
   font-size: 14px;
   letter-spacing: 2px;
 }
+.my-info {
+  margin-top: 2px;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 15px;
+}
+#pipe {
+  letter-spacing: 15px;
+  margin: 0 10px;
+}
+
 @media only screen and (max-width: 742px) {
   body {
     font-weight: 500;
@@ -720,5 +727,9 @@ pre tt:after {
     width: 100%;
     height: 100%;
     padding: 0 0;
+  }
+  .my-info {
+    margin-top: 0;
+    padding-bottom: 5px;
   }
 }
