@@ -1,3 +1,13 @@
+# LICENSE
+<img width=500 src="https://user-images.githubusercontent.com/1910457/174833768-cb468aef-b23b-4ca8-8eef-3ab568571ed1.png" />
+
+> *If you'd like to use anything I've made, please [reach out](mailto:benpmichel@gmail.com)! I'd love to hear what you're up to.*
+
+There are multiple categories of intellectual property that exist on [obensource.com](https://www.obensource.com/), and these properties are licensed accordingly by their respective category. These categories are:
+* Blogs, Articles, Writing, Images, and Screenshots
+* Music
+* Software
+
 # Blogs, Articles, Writing, Images, Screenshots
 
 The files inside the `src/pages/blogs/` and `content/posts` directories are licensed under
@@ -20,9 +30,9 @@ This article was originally published by Ben Michel on <a href="https:www.obenso
 ```
 
 # Music
-The music that's published on this site is under copyright by Ben Michel, all rights reserved. If you wish to use or redistribute any of it for any reason, please [contact Ben Michel directly](mailto:benpmichel@gmail.com) (he's happy to connect with you about that).
+The music that's published on this site is under copyright by Ben Michel, all rights reserved. If you wish to use or redistribute any of it, please [contact Ben Michel directly](mailto:benpmichel@gmail.com) to set up an agreement (he's happy to connect with you about that).
 
-The exceptions to this copyright are musical properties which belong to other artists, by which Ben Michel contributed to, but does not own the copyright to. Those may not be used or redistributed without contacting the original owner / producer. The same applies to the video properties used here, which were not produced by Ben Michel.
+Exceptions to this copyright are musical properties which belong to other artists (by which Ben Michel contributed to, but does not own the copyright). This content may not be used or redistributed without contacting the original owner and/or producer. The same applies to the video properties that exist herein, but were not produced by Ben Michel (who does not claim copyright).
 
 # Software
 **MIT License**
