@@ -5,13 +5,15 @@ The files inside the `src/pages/blogs/` and `content/posts` directories are lice
 
 Attribution must be met in order to share or adapt them outside of [obensource.com](https://www.obensource.com/).
 
-The attribution requirement is fulfilled when, first, the canonical link is directed towards the original post, for example:
+The attribution requirement is fulfilled when:
+
+1.The canonical link is directed towards the original post, for example:
 
 ```html
 <link rel="canonical" href="https://obensource.com/blogs/high-fidelity-event-sampling-and-playback-with-vanilla-javascript/" />
 ```
 
-And second, a visible attribution reference with a link is made on the site where this intellectual property is being redistributed. For example:
+2. A visible attribution reference with a link is made on the site where this intellectual property is being redistributed. For example:
 
 ```html
 This article was originally published by Ben Michel on <a href="https:www.obensource.com">obensource.com</a>
