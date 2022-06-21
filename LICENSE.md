@@ -20,7 +20,7 @@ This article was originally published by Ben Michel on <a href="https:www.obenso
 ```
 
 # Music
-The music that's published on this site is under copyright by Ben Michel, all rights reserved. If you wish to use or redistribute any of it for any reason, please contact Ben Michel directly (he's happy to connect with you about that).
+The music that's published on this site is under copyright by Ben Michel, all rights reserved. If you wish to use or redistribute any of it for any reason, please [contact Ben Michel directly](mailto:benpmichel@gmail.com) (he's happy to connect with you about that).
 
 The exceptions to this copyright are musical properties which belong to other artists, by which Ben Michel contributed to, but does not own the copyright to. Those may not be used or redistributed without contacting the original owner / producer. The same applies to the video properties used here, which were not produced by Ben Michel.
 
