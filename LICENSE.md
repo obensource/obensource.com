@@ -13,7 +13,7 @@ The attribution requirement is fulfilled after the follow 2 steps are observed:
 <link rel="canonical" href="https://obensource.com/blogs/high-fidelity-event-sampling-and-playback-with-vanilla-javascript/" />
 ```
 
-2. A visible attribution reference with a link is made on the site's page where this intellectual property is being redistributed, for example:
+2. A visible attribution reference with a link is made on any of the site's pages where this intellectual property is being redistributed, for example:
 
 ```html
 This article was originally published by Ben Michel on <a href="https:www.obensource.com">obensource.com</a>
