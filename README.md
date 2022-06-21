@@ -11,5 +11,5 @@ While you're here, feel free to check out my [blog](https://obensource.com/writi
 * It's mostly a catalogue of all the things I'm up to, which I periodically update.
 * The majority of my activity here is going towards [blogging](https://obensource.com/writing/) at the moment.
 * The blogs on this site are licensed under [CC by 4.0](https://creativecommons.org/licenses/by/4.0/).
-* The music on this site is **© 2022 Ben Michel**, all rights reserved (with a few exceptions that are extrapolated [here](https://github.com/obensource/obensource.com/blob/main/LICENSE.md)).
+* The music on this site is **© 2022 Ben Michel**, all rights reserved (with a few exceptions that are described in depth [here](https://github.com/obensource/obensource.com/blob/main/LICENSE.md)).
 * The software on this site is licensed under [MIT](https://opensource.org/licenses/MIT).
