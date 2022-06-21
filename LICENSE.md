@@ -7,7 +7,7 @@ Attribution must be met in order to share or adapt them outside of [obensource.c
 
 The attribution requirement is fulfilled when:
 
-1.The canonical link is directed towards the original post, for example:
+1. The canonical link is directed towards the original post, for example:
 
 ```html
 <link rel="canonical" href="https://obensource.com/blogs/high-fidelity-event-sampling-and-playback-with-vanilla-javascript/" />
