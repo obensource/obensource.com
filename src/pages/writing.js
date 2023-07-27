@@ -37,6 +37,11 @@ const Writing = () => (
           High fidelity event sampling and playback with Vanilla JavaScript
         </div>
       </Link>
+      <Link to="../blogs/when-its-time-to-migrate-away-from-commonjs">
+        <div style={{ paddingBottom: '20px' }}>
+          <i>✎</i>: When It{"'"}s Time to Migrate Away From CommonJS
+        </div>
+      </Link>
       <Link to="../blogs/https-for-local-development">
         <i>✎</i>: HTTPs for local Development
       </Link>
