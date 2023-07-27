@@ -17,10 +17,11 @@
   },
   "dependencies": {
     "copy-text-to-clipboard": "^3.0.1",
-    "gatsby": "^4.16.0",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-google-analytics": "^4.16.0",
     "gatsby-plugin-manifest": "^4.16.0",
     "gatsby-plugin-offline": "^5.16.0",
+    "gatsby-plugin-page-progress": "^2.2.1",
     "gatsby-plugin-react-helmet": "^5.16.0",
     "gatsby-plugin-sharp": "^4.16.1",
     "gatsby-plugin-sitemap": "^5.16.0",
@@ -29,8 +30,8 @@
     "gatsby-transformer-gitinfo": "^1.1.0",
     "gatsby-transformer-sharp": "^4.16.0",
     "prop-types": "^15.8.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {

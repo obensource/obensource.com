@@ -18,6 +18,18 @@ module.exports = {
     ]
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-page-progress',
+      options: {
+        includePaths: ['/', { regex: '^/blogs' }],
+        excludePaths: ['/'],
+        height: 3,
+        prependToBody: false,
+        color: '#663399',
+        footerHeight: 500,
+        headerHeight: 0
+      }
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-filesystem',
